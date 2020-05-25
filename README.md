@@ -3,4 +3,4 @@
 
 データ：https://www.kaggle.com/skihikingkevin/pubg-match-deaths
 
-python,numpy,pandas,matplotlib
+使用したもの：python,numpy,pandas,matplotlib
